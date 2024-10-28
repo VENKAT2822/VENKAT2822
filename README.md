@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Venkat K
-- 👀 I’m interested in Full Stack Web Development & Programming
+- 👀 I’m Skilled in Front end design & Programming.
 - 🌱 I’m currently learning DSA and Data Analytics.
+- ✨ I'm Interested to learn in Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on Projects based on Ai & DA
 - 📫 You can reachme via Linkedin..
 - 😄 Pronouns: VK.
